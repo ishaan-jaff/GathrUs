@@ -1,0 +1,168 @@
+/* * {
+	text-align: center;
+	font-family: arial;
+	color: rgb(100,100,90);
+	/* background-color: orange; */
+  /* } */ 
+
+/* html, body {
+	background-color: orange;
+	height: 100%;
+
+} */
+
+.main-container {
+	text-align: center;
+	font-family: arial;
+	color: rgb(100,100,90);
+	background-color: white;
+}
+
+h2 {
+	text-align: center;
+	color: black;
+	text-transform: uppercase;
+	font-weight: 400;
+	font-size: 15px;
+}
+
+html {
+	background-color: white;
+}
+
+
+h1 {
+ color: #008b8b;
+}
+
+div.interests {
+	margin-left: auto;
+    margin-right: auto;
+	display: block;
+	text-transform: uppercase;
+	padding: 20px;
+	color: black;
+	margin: 2px;
+	width: 90px;
+	height: 50px;
+	border-style: solid;
+	border-color: grey;
+	box-shadow: 0.1px 0.1px 0.1px 0.1px #777777;
+	border-radius: 2em 2em 2em 2em;
+	cursor: pointer;
+}
+
+.container {
+	margin-top: 2%;
+	display: flex;
+	gap: 12px;
+	justify-content: center;
+}
+
+#nextBtn {
+	background-color: DarkCyan;
+	color: white;
+	margin-top: 8%;
+	padding: 1.5% 3.5%;
+	text-align: center;
+	text-decoration: none;
+	font-size: 16px;
+	/* margin: 4px 2px 2px 10px; */
+	cursor: pointer;
+	border-width: 0px;
+	border-radius: 2em 2em 2em 2em;
+}
+
+div.interests:hover {
+	box-shadow: 0.5px 0.5px 0.5px 0.5px #777777;
+	/*background-color: #334255;
+	color: white; */
+}
+
+img {
+
+	max-width: 50px;
+	max-height: 50px;
+
+}
+
+.img-format {
+	background-size: contain;
+	background-repeat: no-repeat;
+	/* opacity: 0.4; */
+	background-position: center;
+}
+
+#nextClick {
+	background-color: DarkCyan;
+	width: 280px;
+	float: right;
+	height: 220px;
+	color: white;
+	margin-top: 200px;
+	border-radius: 50% / 100%;
+	border-bottom-right-radius: 0;
+	border-top-right-radius: 0;
+	cursor: pointer;
+}
+
+#nextClick h2 {
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	margin-top: 70px;
+	color: white;
+	font-size: 40px;
+}
+
+p {
+	font-size: 25px;
+}
+
+#sports {
+	
+	/* image: url('https://www.pngitem.com/pimgs/m/184-1845924_american-football-ball-hand-drawn-outline-svg-png.png');	 */
+}
+
+/* #food {
+	background-image: url('https://i.pinimg.com/originals/fd/80/ec/fd80ecec48eba2a9adb76e4133905879.png');
+}
+
+#fun {
+	background-image: url('https://www.pngfind.com/pngs/m/22-229579_fun-icon-png-play-button-icon-png-transparent.png');
+}
+
+#games {
+	background-image: url('https://p.kindpng.com/picc/s/19-191541_game-icon-png-image-free-download-searchpng-game.png');
+}
+
+#music {
+	background-image: url('https://lh3.googleusercontent.com/proxy/Qp8R_4RaaNrATvpoEe7U1lNSxnLDbrpQRlACboPrjAzr0oIKa8fbwAq2loNr5ATBlS0hZMBF1EYt6ChrE7FYydHxall89D9W5ro4FuMsQ9w2jhQIvJLvxsh1tBWeQeskRoSkB095HyFZLnnOyspOe7kBkIU');
+}
+
+#covid-safe {
+	background-image: url('https://static.thenounproject.com/png/577778-200.png');
+}
+
+#education {
+	background-image: url('https://cdn1.iconfinder.com/data/icons/resume-pictograms/100/Resume_Graduate-512.png');
+}
+
+#religion {
+	background-image: url('https://img.favpng.com/20/6/8/praying-hands-religion-prayer-computer-icons-icon-png-favpng-5TQ33cTyVz76x9mifzB3tbiwT.jpg');
+}
+
+#local {
+	background-image: url('https://freepikpsd.com/wp-content/uploads/2019/10/local-icon-png-7-Transparent-Images.png');
+}
+
+#online {
+	background-image: url('https://www.freeiconspng.com/thumbs/worldwide-web-icon/globe-icon-clip-art-at-clker-com-vector-clip-art-online-royalty--26.png');
+}
+
+#drive-thru {
+	background-image: url('https://image.flaticon.com/icons/png/512/31/31307.png');
+}
+
+#misc {
+	background-image: url('https://img.pngio.com/audio-play-random-shuffle-song-icon-random-icons-png-512_512.png'); */
+
+/* } */
